@@ -5,10 +5,13 @@ kelomok
 3.januardi putra
 
 
-Teknologi yang digunakan
+**Teknologi yang digunakan**
+codinggniters[Panduan_PPDB_Online.pdf](https://github.com/zulkarnaen12/ppdbonline/files/7875503/Panduan_PPDB_Online.pdf)
+
 Front End : HTML, Bootstrap
 Javascript : Vue JS, Native Javascript, & Jquery
 Bootstrap Theme By [Stisla]
+
 Cloud Serverless & Realtime Event : Firebase![Screenshot (1)](https://user-images.githubusercontent.com/78199984/149632352-fb85fe4a-11cd-4a8c-a5ea-5c879b5fab96.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/78199984/149632356-c82753e6-67d2-463b-adcb-5ddd083d8238.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/78199984/149632358-11340a94-8f8f-424e-8657-68d647813200.png)
